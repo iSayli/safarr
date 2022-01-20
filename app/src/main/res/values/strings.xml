@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Safarr</string>
+    <string name="explore">Explore</string>
+    <string name="itinerary">Itinerary</string>
+    <string name="travelogue">Travelogue</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="affirmation1">Agra</string>
+    <string name="affirmation2">Manali</string>
+    <string name="affirmation3">Varanasi</string>
+    <string name="affirmation4">Leh Ladakh</string>
+    <string name="affirmation5">Mysore</string>
+    <string name="affirmation6">Munnar</string>
+    <string name="affirmation7">Tawang</string>
+    <string name="affirmation8">Dal lake</string>
+    <string name="affirmation9">Darjeeling</string>
+    <string name="affirmation10">Jaipur</string>
+
+
+</resources>
